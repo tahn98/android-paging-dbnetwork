@@ -14,4 +14,4 @@ Each time a new page is fetched, the same RepoSearchResult record in the Databas
 - Retrofit2
 - Paging
 
-![](https://user-images.githubusercontent.com/38346869/69315394-fbde3f80-0c68-11ea-8fc7-0c481064f46d.jpg)
+<img src="https://user-images.githubusercontent.com/38346869/69315394-fbde3f80-0c68-11ea-8fc7-0c481064f46d.jpg" height="500" />
